@@ -5,18 +5,18 @@ let etapas = [
         candidatos: [
             {
                 numero: '38111',
-                nome: 'Fulano de Tal',
-                partido: 'ABC',
+                nome: 'Larissa Campos',
+                partido: 'SPATEN',
                 fotos:[
-                    {url:'38111.jpg', legenda: 'Vereador'}
+                    {url:'84_2.jpg', legenda: 'Vereador'}
                 ]
             },
             {
                 numero: '77222',
-                nome: 'Beltrano da Silva',
+                nome: 'Beatriz Silva',
                 partido: 'DEFG',
                 fotos:[
-                    {url:'77222.jpg', legenda: 'Vereador'}
+                    {url:'84_2.jpg', legenda: 'Vereador'}
                 ]
             },
         ]
